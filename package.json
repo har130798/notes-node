@@ -1,0 +1,16 @@
+{
+  "name": "notes-node",
+  "version": "0.0.0",
+  "description": "notes-node",
+  "main": "app.js",
+  "author": "harsha",
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC"
+}
